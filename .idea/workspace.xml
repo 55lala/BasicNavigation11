@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb5247ad-1f13-4556-95d7-eefb3c7ead91" name="Default Changelist" comment="">
+    <list default="true" id="eb5247ad-1f13-4556-95d7-eefb3c7ead91" name="Default Changelist" comment="git status">
       <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BasigNavigation11.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cbt/tests/NavigationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cbt/utilities/BrowserFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cbt/utilities/StringUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cbt/tests/NavigationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cbt/utilities/BrowserFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cbt/utilities/StringUtility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cbt/tests/NavigationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cbt/tests/NavigationTests.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +37,7 @@
   <component name="ProjectId" id="1YsFLtjWTIIBjgtXChkq8s78M1Z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -88,6 +85,14 @@
       <option name="presentableId" value="Default" />
       <updated>1583723341461</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework">
+      <created>1583731773987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583731773987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework" />
   </component>
 </project>

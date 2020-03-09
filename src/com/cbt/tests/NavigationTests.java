@@ -48,8 +48,8 @@ public static void fireFox() throws InterruptedException{
         driver.navigate().forward();
         String title3 = driver.getTitle();
         StringUtility.verifyEquals(title3,title1);
-
         driver.quit();
+        //
 
 }
 public static void Edge() throws InterruptedException{
