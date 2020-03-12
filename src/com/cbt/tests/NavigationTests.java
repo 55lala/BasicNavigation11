@@ -10,6 +10,11 @@ public class NavigationTests {
         fireFox();
         Edge();
 
+//        List<String> urls = Arrays.asList("https://luluandgeorgia.com",
+//                "https://wayfair.com/",
+//                "https://walmart.com" ,
+//                        "https://www.westelm.com/");
+
     }
 
 public static void Chrome() throws InterruptedException {

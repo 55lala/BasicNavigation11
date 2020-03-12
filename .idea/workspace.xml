@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb5247ad-1f13-4556-95d7-eefb3c7ead91" name="Default Changelist" comment="git status">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasigNavigation11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="eb5247ad-1f13-4556-95d7-eefb3c7ead91" name="Default Changelist" comment="Homework2">
+      <change afterPath="$PROJECT_DIR$/src/com/cbt/utilities/TitleVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cbt/utilities/TitleVerification2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cbt/utilities/TitleVerification3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/cbt/tests/NavigationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cbt/tests/NavigationTests.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +32,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1YsFLtjWTIIBjgtXChkq8s78M1Z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -92,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583731773987</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework2">
+      <created>1583732298179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583732298179</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,7 +106,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -108,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework" />
+    <MESSAGE value="Homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework2" />
   </component>
 </project>
